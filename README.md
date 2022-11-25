@@ -48,6 +48,19 @@ npm run build
 
 serve -s build
 
+
+====================================
+### Разворачиваем на GitHub
+
+
+https://create-react-app.dev/docs/deployment
+
+
+
+====================================
+
+
+
 # 👇️ delete node_modules and package-lock.json
 rm -rf node_modules
 
@@ -56,6 +69,10 @@ rm -f package-lock.json
 npm cache clean --force
 
 npm install
+
+
+
+
 
 
 
