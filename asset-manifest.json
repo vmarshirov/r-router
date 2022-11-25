@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/r-router/static/css/main.545e4440.css",
+    "main.js": "/r-router/static/js/main.4a09415f.js",
+    "index.html": "/r-router/index.html",
+    "main.545e4440.css.map": "/r-router/static/css/main.545e4440.css.map",
+    "main.4a09415f.js.map": "/r-router/static/js/main.4a09415f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.545e4440.css",
+    "static/js/main.4a09415f.js"
+  ]
+}
